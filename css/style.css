@@ -1,0 +1,37 @@
+body { 
+   background-color:gray;
+}
+#header {
+   background-color: lightgreen;
+   text-align:center;
+}
+#main {
+   height:700px;
+}
+   
+#colSmall {
+   float:left;
+   width:20%;
+   background-color:lightgreen;
+   padding:1% 2% 1% 2%;
+   height: 100%;
+}
+#colMain {
+   float:right;
+   width:70%;
+   background-color:lightblue;
+   padding:1% 2% 1% 2%;
+   height: 100%;
+   overflow: scroll;
+}
+#footer {
+   background-color: lightyellow;
+   text-align: center;
+}
+mark {
+   background-color: yellow;
+   color:black;
+}
+p {
+   color: red;
+}
